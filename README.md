@@ -1,17 +1,9 @@
-# JARVIS-Python
+# EDITH-Python
 
-Conheça o J.A.R.V.I.S
+Conheça a EDITH
 
 Um assistente virtual feito em Python e QT
 
-Ele usa um sistema de reconhecimento de voz offline
+Ela usa um sistema de reconhecimento de voz online do google
 
-Atualmente foi projetado para funcionar em distros linux baseadas em debian
 
-Seu ultimo Update foi feito em 02/02/2021
-
-Desenvolvedor:JaimeJG
-
-OBS: Abra o arquivo "ParaTudoFuncionar.txt" 
-
-Nele contem instruções de instalação dos modulos necessários para seu funcionamento
