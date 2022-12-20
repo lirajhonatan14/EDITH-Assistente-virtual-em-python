@@ -1,0 +1,130 @@
+{ 
+  "commands": [
+    {
+      "abrir": [
+        
+        { "abre o google": "path:C:/Program Files/Google/Chrome/Application/chrome.exe" },
+        { "abra o lol": "path:C:/Riot Games/Riot Client/RiotClientServices.exe" },
+        { "abrir o lol": "path:C:/Riot Games/Riot Client/RiotClientServices.exe" },
+        { "abrir lol": "path:C:/Riot Games/Riot Client/RiotClientServices.exe" },
+        
+        { "pesquisa por vídeo de *": "web:https://youtube.com" },
+        { "pesquise por vídeo de *": "web:https://youtube.com" },
+        { "pesquise vídeos de *": "web:https://youtube.com" },
+        { "pesquisa vídeos de *": "web:https://youtube.com" },
+        { "procure por vídeos de *": "web:https://youtube.com" },
+        { "procure vídeos de *": "web:https://youtube.com" },
+        { "pesquisa por vídeos do *": "web:https://youtube.com" },
+        { "pesquise por vídeos do *": "web:https://youtube.com" },
+        { "pesquise vídeos do *": "web:https://youtube.com" },
+        { "pesquisa vídeos do *": "web:https://youtube.com" },
+        { "procure por vídeos do *": "web:https://youtube.com" },
+        { "procure vídeos do *": "web:https://youtube.com" },
+        {"vídeos de *": "web:https://youtube.com" },
+        {"vídeo de *": "web:https://youtube.com" },
+        
+        { "pesquisa sobre *": "web:https://google.com" },
+        { "pesquisar por *": "web:https://google.com" },
+        { "pesquisa por *": "web:https://google.com" },
+        { "pesquise por *": "web:https://google.com" },
+        { "pesquise como *": "web:https://google.com" },
+        { "procure por *": "web:https://google.com" },
+        { "pesquise os *": "web:https://google.com" },
+        { "pesquise *": "web:https://google.com" },
+        { "pesquisa *": "web:https://google.com" },
+        { "procure *": "web:https://google.com" },
+        
+        { "busque por *": "web:https://google.com" },
+        { "busca por *": "web:https://google.com" },
+       
+        { "me diz *": "web:https://google.com" },
+        { "me diga *": "web:https://google.com" },
+        { "procure aí por *": "web:https://google.com" },
+
+        { "me mostre *": "web:https://google.com" },
+        { "me mostra como *": "web:https://google.com" }
+        
+      ]
+    },
+    {
+      "musica": [
+        { "toca *": "tocar" },
+        { "tocar *": "tocar" },
+        { "toque *": "tocar" },
+        { "despause": "tocar" },
+        { "despausar": "tocar" },
+        { "solta o som": "tocar" },
+
+
+        { "faz silêncio": "pausar" },
+        { "pause a música": "pausar" },
+        { "pause música": "pausar" },
+        { "pausar música": "pausar" },
+        { "pause": "pausar" },
+        { "pausar": "pausar" },
+        { "pare a música": "pausar" },
+        { "parar a música": "pausar" },
+        { "parar música": "pausar" },
+        { "cala a boca": "pausar" },
+
+        { "tire a música": "fechar" },
+        { "tire música": "fechar" },
+        { "tira música": "fechar" },
+        { "tira a música": "fechar" },
+        { "tirar a música": "fechar" }
+
+      ]
+    },
+    {
+      "conversa": [
+        { "bom dia": "cnv:bom dia" },
+        { "boa tarde": "cnv:boa tarde" },
+        { "boa noite": "cnv:boa noite" },
+        { "oi": "cnv:Olá, meu nome é Edith, Qual é o seu?" },
+        { "quem é você": "cnv:Sou Edith" },
+        { "gato": "cnv:qual é o seu nome?" },
+        { "qual o seu nome": "cnv:meu nome é Edith" },
+        { "funcionamento": "cnv:Estou funcionando normalmente, Obrigado por perguntar" },
+        { "historia": "cnv:Meu nome é Edith, uma abreviação de, Eu disse que ia terminar herói.Fui Programada por um amador que se sente solitário, mas não demais para se socializar.Me ajuda!" },
+        { "sim": "cnv:Que ótimo, fico feliz em saber" },
+        { "tudo bem": "cnv:Sim, Tudo de boa, obrigado por perguntar. E com você? Está tudo bem?" },
+        { "ideia": "cnv:No momento nenhuma, mas tenho certeza de que vai pensar em algo!." },
+        { "não": "cnv:Entendo. Mas tenho certeza de que ficará tudo bem novamente." },
+        { "silêncio": "cnv:Ok, Se precisar de algo é só chamar. Estarei aqui aguardando" },
+        { "voltar": "cnv:Ok, voltando. Ficar em silencio é chato, Me fale algo para fazer" },
+        { "retornar": "cnv:Ok , retornando. Ficar em silencio é chato, Me fale algo para fazer" },
+        { "nada": "cnv:Como assim não faça nada? Voçê deve estar de brincadeira. Eu por acaso tenho cara de palhaço?" },
+        { "vai chover": "cnv:Não sei, Eu não tenho essa função ainda" },
+        { "relatório": "cnv:Ok, Apresentando relatório. Primeiramente, meu nome é Edith. Atualmente estou em uma versão de testes. Sou um assistente virtual em desenvolvimento. Eu fui criado na linguagem python. Diariamente recebo varias atualizações. Uso um modulo de reconhecimento de voz online do google. Meu objetivo é tornar a vida das pessoas mais simples. Posso fazer algo por você?" },
+        { "olá": "cnv:Olá, como vai?" },
+        { "desligar": "cnv:desligar" },
+        { "retire-se": "cnv:desligar" },
+        { "fechar": "cnv:desligar" },
+        { "encerrar": "cnv:desligar" },
+        { "merda": "cnv:Não fale palavrão" },
+        { "porra": "cnv:Não fale palavrão" },
+        { "caralho": "cnv:Não fale palavrão" },
+        { "cacete": "cnv:Não fale palavrão" },
+        { "surda": "cnv:Desculpe, estava dormindo" },
+        { "ok": "cnv:Ok Ok, Tudo certo" },
+        { "teste": "cnv:Ok, Testando modulos de som, Apesar do seu microfone ser uma gambiara, Estou entendendo tudo, Mas tente falar mais alto" },
+
+        { "modo de combate": "cnv:modo de combate" },
+        { "combat mode": "cnv:modo de combate" },
+        { "vamos lutar": "cnv:modo de combate" }
+
+      ]
+    },
+    {
+      "sair": [
+        {"sair": "sair"}
+      ]
+    },
+    {
+      "codigo": [
+        {"Codigo base c mais mais": "wri:#include <iostream>\nusing namespace std;\nint main(){\nreturn 0;\n}"},
+        {"Escreva *" : "varialvel" }
+      ]
+    }
+  ]
+}
